@@ -3,8 +3,7 @@
 <h1 align="center">{404-NOT-FOUND-MASTER}</h1>
 <div align="center">
   <h3>
-    <span> | </span>
-    <a href="404-404.netlify.app">
+    <a href="https://404-404.netlify.app">
       Solution
     </a>
     <span> | </span>
