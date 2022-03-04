@@ -1,0 +1,27 @@
+@media (max-width: 600px){
+    .not-found-container{
+        width: 100%;
+        height: fit-content;
+        flex-direction: column;
+    }
+
+    .container .main{
+        margin: 2px 0 0 5px;
+    }
+
+    .not-found-image img{
+        width: 350px;
+        margin: 20px 0;
+    }
+
+    .not-found-container .title{
+        font-size: 45px;
+        max-width: 320px;
+        margin: 10px 0;
+    }
+    
+    .not-found-container .subtitle{
+        max-width: 300px;
+        margin: 40px 0;
+    }
+}
